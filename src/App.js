@@ -7,6 +7,12 @@ function App() {
     <div>
       <h1>Weather App</h1>
       <Weather />
+
+      <div>
+        <a href="https://github.com/Karabo-L/weather_app_react">
+          GitHub repository
+        </a>
+      </div>
     </div>
   );
 }
